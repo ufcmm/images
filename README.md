@@ -8,4 +8,4 @@ To use an image from this repo:
 
 Weighing
 
-![weighing](gympngs/special-lineal-color-icons/slinealcolor-08.png)
+![weighing](/gympngs/special-lineal-color-icons/slinealcolor-08.png)
