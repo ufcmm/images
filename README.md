@@ -3,9 +3,7 @@
 To use an image from this repo:
 
 ```
-```
-```
-![image name](link)
+![image name](https://raw.githubusercontent.com/ufcmm/images/main/filename.png)
 ```
 
 
