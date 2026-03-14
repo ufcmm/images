@@ -6,4 +6,6 @@ To use an image from this repo:
 ![image name](https://raw.githubusercontent.com/ufcmm/images/main/filename.png)
 ```
 
+Weighing
 
+![weighing](gympngs/special-lineal-color-icons/slinealcolor-08.png)
